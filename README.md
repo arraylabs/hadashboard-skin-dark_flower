@@ -21,4 +21,7 @@ smoke_basement:
 > If you aren't seeing the title text vertically centered in the box then most likely the javascript isn't being run. In your appdaemon.cfg file add the following: ***dash_force_compile = 1***
 
 ###Vertical line centering:
-> Javascript runs after the dashboard is drawn to vertically center the title blocks for those widgets without title2 text. If the length of the title autowraps the second line it work look right and it should be manually entered for title and title2.
+> Javascript runs after the dashboard is drawn to vertically center the title blocks for those widgets without title2 text. If the length of the title autowraps the second line it won't look right and it should be manually entered for title and title2.
+
+###Not seeing template or template background?
+> You may need to restart HADashboard v2
