@@ -1,7 +1,7 @@
 # Dark Flower Skin
 Custom skin for HADashboard 2 Beta. This is a work in progress.
 
-![alt tag](/clear_sky.jpg)
+![alt tag](/dark_flower.jpg)
 
 ##Block Colors
 
