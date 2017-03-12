@@ -167,8 +167,8 @@ cover_title2_style: $style_title2
 cover_widget_style: $background_style
 cover_state_text_style: "font-weight: 400; color: $white"
 
-clock_date_style: "color: $white; font-size: 180%"
-clock_time_style: "color: $white; font-size: 450%"
+clock_date_style: "color: $white;"
+clock_time_style: "color: $white;"
 clock_widget_style: $background_style
 
 weather_main_style: "color: $orange"
